@@ -59,7 +59,24 @@
       "updatedAt": "01/04/2019"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "PolicyType":  [
+  {
+    "name": "Social Housing",
+    "policyNumber": [
+      {"value": "ABC1234567890", "viewValue": "ABC1234567890"},
+      {"value": "GHI1234567890", "ciewValue": "GHI1234567890"},
+      {"value": "MNO1234567890", "viewValue": "MNO1234567890"},
+      {"value": "PQR1234567890", "viewValue": "PQR1234567890"},
+      {"value": "STU1234567890", "viewValue": "STU1234567890"},
+      {"value": "VWX1234567890", "viewValue": "VWX1234567890"}
+    ]
+  },
+  {
+    "name": "Motor Fleet",
+    "policyNumber": [
+      {"value": "DEF1234567890", "viewValue": "DEF1234567890"},
+      {"value": "JKL1234567890", "viewValue": "JKL1234567890"}
+    ]
   }
+]
 }
